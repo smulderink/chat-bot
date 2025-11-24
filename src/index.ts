@@ -6,7 +6,7 @@ const REASONING_EFFORT = "medium"; // low, medium, high
 const REASONING_SUMMARY = "auto"; // auto, concise, detailed
 
 // AI Gateway ID - leave empty to bypass gateway
-const AI_GATEWAY_ID = "gpt-oss-gateway";
+const AI_GATEWAY_ID = "chatbot-gateway";
 
 // System prompts
 const SYSTEM_PROMPT =
